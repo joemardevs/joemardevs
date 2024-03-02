@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joemardevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-6hcoq3jsx-joemardevs.vercel.app/api/top-langs?username=joemardevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-1302.gif"  />
